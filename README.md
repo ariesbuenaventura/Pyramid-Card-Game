@@ -3,5 +3,4 @@
 
 <div align="center">
   <img src="PIC200482137569784.JPG">
-  </div>
 </div>
