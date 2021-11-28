@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin VB.Form frmMain 
-   Caption         =   "Pyramid 1.0 by Aris Buenaventura"
+Caption         =   "Pyramid 1.0 by Aries Buenaventura"
    ClientHeight    =   7800
    ClientLeft      =   165
    ClientTop       =   855
